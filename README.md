@@ -56,8 +56,8 @@ dbs_project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Hospital-Management-System.git
-cd Hospital-Management-System
+git clone https://github.com/gitrs13/Hospital_Management_System.git
+cd Hospital_Management_System
 ```
 
 ### 2. Install Python dependencies
