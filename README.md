@@ -104,7 +104,3 @@ python login.py
 - 5 Triggers: patient insert/delete audit, doctor insert audit, bill auto-total, appointment status audit
 
 ---
-
-## Author
-**Riddhi Sahoo** — Registration No. 240911394  
-Information Technology, Section IT-C, Roll No. 37
