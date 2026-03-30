@@ -1,5 +1,4 @@
 # Hospital Management System
-### DBS Mini Project — Information Technology, IT-C
 
 A Python-based Hospital Management System with a modern GUI, backed by a MySQL database. Built as a Database Systems lab mini project demonstrating stored procedures, functions, triggers, and full DB connectivity.
 
